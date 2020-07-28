@@ -1,2 +1,2 @@
-# ContainerNAlgorithms
-Own implementation for some container and algorithms
+# Container 'n' Algorithms
+Own implementation of some container and algorithms
