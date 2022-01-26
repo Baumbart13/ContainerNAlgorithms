@@ -3,6 +3,7 @@
 //
 
 #include "LinkedList.h"
+#include <exception>
 
 /* LinkedList */
 template <class T> void LinkedList<T>::increaseLength(){

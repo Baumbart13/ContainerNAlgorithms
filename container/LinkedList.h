@@ -5,7 +5,6 @@
 #ifndef CONTAINERNALGORITHM_LINKEDLIST_H
 #define CONTAINERNALGORITHM_LINKEDLIST_H
 
-#include <exception>
 #include <iostream>
 
 template <class T> struct Node{
